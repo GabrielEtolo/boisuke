@@ -152,7 +152,7 @@ export default {
 }
 .image3 img {
   height: 450px;
-  width: 100%;
+  
 }
 .texte {
   font-family: 'DM Serif Display', serif;
