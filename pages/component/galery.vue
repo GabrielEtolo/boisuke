@@ -14,7 +14,7 @@
         :key="index"
       >
         <img :src="`/${image}`" alt="Gallery image" />
-        <div class="texte">{{ texte[index] }}</div>
+        
       </div>
     </div>
   </div>
